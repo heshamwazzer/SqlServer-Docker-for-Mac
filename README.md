@@ -9,8 +9,6 @@
 This is purely for sharing purpose. If you encounter any issues, please kindly do your due diligence by Googling them first. I'm new to this and still learning too.
 
 ## ⓵ Get Docker on Mac with an SqlServer Docker image
-
-Based on a video tutorial by [Valuetech Academy](https://www.youtube.com/channel/UCwN4XNYmbPL8IRPe-E0BnYQ): https://www.youtube.com/watch?v=o5r3kFnsL-Q
 	
 1. Download and install Docker on Mac (Intel/Apple chip version based on your Mac's architecture)
 
@@ -39,8 +37,6 @@ Based on a video tutorial by [Valuetech Academy](https://www.youtube.com/channel
 Otherwise, please refer to the comment section of the video tutorial to find out more workarounds for M1 Mac environment.
 
 ## ⓶ Configure ASP.NET Core project to work with the database
-
-*Note: This should work similarly with an alternative IDE. Here I'm using JetBrains Rider, but conceptually you can work out the logic with Visual Studio for Mac too. Otherwise please watch the [demo for Visual Studio](https://www.youtube.com/watch?v=bbng41TLl8M) I listed above*
 
 1. Update the target framework of your ASP.NET Core project to the latest available SDK (e.g. .NET 6.0)
 
