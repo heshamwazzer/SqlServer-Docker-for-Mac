@@ -1,10 +1,10 @@
 # ASP.NET Core with JetBrains Rider/Visual Studio & Sql Server on Mac Intel/M1
-
+<!-- 
 ## Video Demo
 [SQL Server + Jetbrains Rider for Mac (M1/Intel) - Updated for 2022 - Detailed Demo](https://youtu.be/CWBNCWxD_0c)
 
 [SQL Server + Visual Studio for Mac (M1/Intel) - Updated for 2022 - Detailed Demo](https://www.youtube.com/watch?v=bbng41TLl8M)
-
+ -->
 ## Disclaimer
 This is purely for sharing purpose. If you encounter any issues, please kindly do your due diligence by Googling them first. I'm new to this and still learning too.
 
